@@ -1,0 +1,9 @@
+*.log
+*.asv
+*.m~
+*exposure_masks*
+*humidity_log*
+presets/*.mat
+./logs
+logs/
+*.db
